@@ -1,0 +1,2 @@
+public class Ben2 {
+}
